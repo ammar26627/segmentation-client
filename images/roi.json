@@ -1,0 +1,1 @@
+{"geojson": [{"type": "Feature", "properties": {"roi": "Lalitpur", "fill": "#00FFFF"}, "geometry": {"type": "Polygon", "coordinates": [[[78.362045, 24.603323], [78.362045, 24.715336], [78.495941, 24.715336], [78.495941, 24.603323], [78.362045, 24.603323]]]}}], "bands": {"band1": "B7", "band2": "B4", "band3": "B2"}}
